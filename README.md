@@ -1,2 +1,2 @@
-# supporting_data
-Supporting data and attatchments for submission
+# Supporting Data
+This repository is created for allocating the online resources from the submission.
